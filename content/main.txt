@@ -1,0 +1,10 @@
+Node JS
+-Environment to run JS outside browser
+-built on chrome's v8 JS engine
+-full stack 
+
+Built in Modules
+-outside
+-Path
+-File System
+-HTTP
